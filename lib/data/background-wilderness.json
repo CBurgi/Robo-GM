@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Bandit",
+        "value": 1
+    },
+    {
+        "name": "Outlaw",
+        "value": 2
+    },
+    {
+        "name": "Hunter",
+        "value": 3
+    },
+    {
+        "name": "Mercenary",
+        "value": 4
+    },
+    {
+        "name": "Adventurer",
+        "value": 5
+    },
+    {
+        "name": "Explorer",
+        "value": 6
+    },
+    {
+        "name": "Commoner",
+        "value": 7
+    },
+    {
+        "name": "Commoner",
+        "value": 8
+    },
+    {
+        "name": "Entertainer",
+        "value": 9
+    },
+    {
+        "name": "Scout",
+        "value": 10
+    },
+    {
+        "name": "Soldier",
+        "value": 11
+    },
+    {
+        "name": "Village Dweller",
+        "value": 12
+    },
+    {
+        "name": "City Dweller",
+        "value": 13
+    }
+]

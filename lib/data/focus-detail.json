@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Small",
+        "value": 1
+    },
+    {
+        "name": "Large",
+        "value": 2
+    },
+    {
+        "name": "Old",
+        "value": 3
+    },
+    {
+        "name": "New",
+        "value": 4
+    },
+    {
+        "name": "Mundane",
+        "value": 5
+    },
+    {
+        "name": "Simple",
+        "value": 6
+    },
+    {
+        "name": "Complex",
+        "value": 7
+    },
+    {
+        "name": "Unsavory",
+        "value": 8
+    },
+    {
+        "name": "Specialized",
+        "value": 9
+    },
+    {
+        "name": "Unexpected",
+        "value": 10
+    },
+    {
+        "name": "Exotic",
+        "value": 11
+    },
+    {
+        "name": "Dignified",
+        "value": 12
+    },
+    {
+        "name": "Unique",
+        "value": 13
+    }
+]

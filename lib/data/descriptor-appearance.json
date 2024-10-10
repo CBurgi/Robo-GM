@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Disfigured",
+        "value": 1
+    },
+    {
+        "name": "Lasting Injury",
+        "value": 2
+    },
+    {
+        "name": "Tattooed/Branded",
+        "value": 3
+    },
+    {
+        "name": "Scarred",
+        "value": 4
+    },
+    {
+        "name": "Unkempt",
+        "value": 5
+    },
+    {
+        "name": "Big/Brawny",
+        "value": 6
+    },
+    {
+        "name": "Small/Scrawny",
+        "value": 7
+    },
+    {
+        "name": "Notable Hair",
+        "value": 8
+    },
+    {
+        "name": "Notable Nose",
+        "value": 9
+    },
+    {
+        "name": "Notable Eyes",
+        "value": 10
+    },
+    {
+        "name": "Clean/Groomed",
+        "value": 11
+    },
+    {
+        "name": "Attractive",
+        "value": 12
+    },
+    {
+        "name": "Reroll and add contrary detail",
+        "value": 13
+    }
+]

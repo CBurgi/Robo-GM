@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Seek",
+        "value": 1
+    },
+    {
+        "name": "Oppose",
+        "value": 2
+    },
+    {
+        "name": "Communicate",
+        "value": 3
+    },
+    {
+        "name": "Move",
+        "value": 4
+    },
+    {
+        "name": "Harm",
+        "value": 5
+    },
+    {
+        "name": "Create",
+        "value": 6
+    },
+    {
+        "name": "Reveal",
+        "value": 7
+    },
+    {
+        "name": "Command",
+        "value": 8
+    },
+    {
+        "name": "Take",
+        "value": 9
+    },
+    {
+        "name": "Protect",
+        "value": 10
+    },
+    {
+        "name": "Assist",
+        "value": 11
+    },
+    {
+        "name": "Transform",
+        "value": 12
+    },
+    {
+        "name": "Deceive",
+        "value": 13
+    }
+]

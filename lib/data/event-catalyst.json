@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Negative",
+        "value": 1
+    },
+    {
+        "name": "Negative",
+        "value": 2
+    },
+    {
+        "name": "Positive",
+        "value": 3
+    },
+    {
+        "name": "Positive",
+        "value": 4
+    },
+    {
+        "name": "neutral",
+        "value": 5
+    }
+]

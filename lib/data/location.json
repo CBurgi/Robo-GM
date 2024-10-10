@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Hazard (Trap, Ambush, Fire)",
+        "value": 1
+    },
+    {
+        "name": "Creature Lair (burrow, cave, nest)",
+        "value": 2
+    },
+    {
+        "name": "Natural Obstacle (difficult ground, cliff, ravine)",
+        "value": 3
+    },
+    {
+        "name": "Water Feature (spring, waterfall, river)",
+        "value": 4
+    },
+    {
+        "name": "Resource (hunting ground, farm, quarry)",
+        "value": 5
+    },
+    {
+        "name": "Stash (trinkets, weapons, map)",
+        "value": 6
+    },
+    {
+        "name": "Structure (Statue, Dungeon, Signpost)",
+        "value": 7
+    },
+    {
+        "name": "Dwelling (campsite, cabin, tower)",
+        "value": 8
+    },
+    {
+        "name": "Temple (shrine, tomb, church)",
+        "value": 9
+    },
+    {
+        "name": "Ruins (Structure, Dwelling, Temple)",
+        "value": 10
+    },
+    {
+        "name": "Town",
+        "value": 11
+    },
+    {
+        "name": "City",
+        "value": 12
+    },
+    {
+        "name": "New Region",
+        "value": 13
+    }
+]

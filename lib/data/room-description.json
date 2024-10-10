@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Empty",
+        "value": 1
+    },
+    {
+        "name": "Empty",
+        "value": 2
+    },
+    {
+        "name": "Living area or Meeting place",
+        "value": 3
+    },
+    {
+        "name": "Working area",
+        "value": 4
+    },
+    {
+        "name": "Special area",
+        "value": 5
+    },
+    {
+        "name": "Themed area",
+        "value": 6
+    }
+]

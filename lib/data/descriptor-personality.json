@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Loner",
+        "value": 1
+    },
+    {
+        "name": "Cruel",
+        "value": 2
+    },
+    {
+        "name": "Anxious",
+        "value": 3
+    },
+    {
+        "name": "Greedy",
+        "value": 4
+    },
+    {
+        "name": "Arrogant",
+        "value": 5
+    },
+    {
+        "name": "Awkward",
+        "value": 6
+    },
+    {
+        "name": "Orderly",
+        "value": 7
+    },
+    {
+        "name": "Impulsive",
+        "value": 8
+    },
+    {
+        "name": "Kind",
+        "value": 9
+    },
+    {
+        "name": "Peaceful",
+        "value": 10
+    },
+    {
+        "name": "Easygoing",
+        "value": 11
+    },
+    {
+        "name": "Optimistic",
+        "value": 12
+    },
+    {
+        "name": "Reroll and add contrary detail",
+        "value": 13
+    }
+]

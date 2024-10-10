@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Air",
+        "value": 1
+    },
+    {
+        "name": "Water",
+        "value": 2
+    },
+    {
+        "name": "Earth",
+        "value": 3
+    },
+    {
+        "name": "Fire",
+        "value": 4
+    }
+]

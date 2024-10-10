@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Cause Harm",
+        "value": 1
+    },
+    {
+        "name": "Put someone in a spot",
+        "value": 2
+    },
+    {
+        "name": "Offer a choice",
+        "value": 3
+    },
+    {
+        "name": "Advance a Threat",
+        "value": 4
+    },
+    {
+        "name": "Reveal an unwelcome truth",
+        "value": 5
+    },
+    {
+        "name": "Foreshadow trouble",
+        "value": 6
+    }
+]

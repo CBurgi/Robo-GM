@@ -1,0 +1,402 @@
+[
+    {
+            "name": "Methild",
+            "value": 1
+    },
+    {
+            "name": "Eldrin",
+            "value": 2
+    },
+    {
+            "name": "Ararie",
+            "value": 3
+    },
+    {
+            "name": "Fana",
+            "value": 4
+    },
+    {
+            "name": "Khiiral",
+            "value": 5
+    },
+    {
+            "name": "Farryn",
+            "value": 6
+    },
+    {
+            "name": "Ivasaar",
+            "value": 7
+    },
+    {
+            "name": "Glynfi r",
+            "value": 8
+    },
+    {
+            "name": "Vesstan",
+            "value": 9
+    },
+    {
+            "name": "Pywaln",
+            "value": 10
+    },
+    {
+            "name": "Cyran",
+            "value": 11
+    },
+    {
+            "name": "Saelihn",
+            "value": 12
+    },
+    {
+            "name": "Paeral",
+            "value": 13
+    },
+    {
+            "name": "Shalanar",
+            "value": 14
+    },
+    {
+            "name": "Perlen",
+            "value": 15
+    },
+    {
+            "name": "Petsys",
+            "value": 16
+    },
+    {
+            "name": "Elion",
+            "value": 17
+    },
+    {
+            "name": "Darieth",
+            "value": 18
+    },
+    {
+            "name": "Vulen",
+            "value": 19
+    },
+    {
+            "name": "Kharis",
+            "value": 20
+    },
+    {
+            "name": "Aimer",
+            "value": 21
+    },
+    {
+            "name": "Genlee",
+            "value": 22
+    },
+    {
+            "name": "Thalanil",
+            "value": 23
+    },
+    {
+            "name": "Lianthorn",
+            "value": 24
+    },
+    {
+            "name": "Ashryn",
+            "value": 25
+    },
+    {
+            "name": "Sharian",
+            "value": 26
+    },
+    {
+            "name": "Larrel",
+            "value": 27
+    },
+    {
+            "name": "Ensatra",
+            "value": 28
+    },
+    {
+            "name": "Alasse",
+            "value": 29
+    },
+    {
+            "name": "Vamir",
+            "value": 30
+    },
+    {
+            "name": "Tassarion",
+            "value": 31
+    },
+    {
+            "name": "Kilyn",
+            "value": 32
+    },
+    {
+            "name": "Tyrael",
+            "value": 33
+    },
+    {
+            "name": "Tanyth",
+            "value": 34
+    },
+    {
+            "name": "Eilphine",
+            "value": 35
+    },
+    {
+            "name": "Bellas",
+            "value": 36
+    },
+    {
+            "name": "Paeris",
+            "value": 37
+    },
+    {
+            "name": "Yinrel",
+            "value": 38
+    },
+    {
+            "name": "Elas",
+            "value": 39
+    },
+    {
+            "name": "Ardreth",
+            "value": 40
+    },
+    {
+            "name": "Fenwenys",
+            "value": 41
+    },
+    {
+            "name": "Reylynn",
+            "value": 42
+    },
+    {
+            "name": "Inchel",
+            "value": 43
+    },
+    {
+            "name": "Katar",
+            "value": 44
+    },
+    {
+            "name": "Sylphine",
+            "value": 45
+    },
+    {
+            "name": "Ermys",
+            "value": 46
+    },
+    {
+            "name": "Naesatra",
+            "value": 47
+    },
+    {
+            "name": "Sylvar",
+            "value": 48
+    },
+    {
+            "name": "Halamar",
+            "value": 49
+    },
+    {
+            "name": "Merellien",
+            "value": 50
+    },
+    {
+            "name": "Saelethil",
+            "value": 51
+    },
+    {
+            "name": "Fylson",
+            "value": 52
+    },
+    {
+            "name": "Keryth",
+            "value": 53
+    },
+    {
+            "name": "Ralorel",
+            "value": 54
+    },
+    {
+            "name": "Alre",
+            "value": 55
+    },
+    {
+            "name": "Saida",
+            "value": 56
+    },
+    {
+            "name": "Ryllae",
+            "value": 57
+    },
+    {
+            "name": "Rhalyf",
+            "value": 58
+    },
+    {
+            "name": "Lhoris",
+            "value": 59
+    },
+    {
+            "name": "Azarya",
+            "value": 60
+    },
+    {
+            "name": "Ralora",
+            "value": 61
+    },
+    {
+            "name": "Ciliren",
+            "value": 62
+    },
+    {
+            "name": "Elyn",
+            "value": 63
+    },
+    {
+            "name": "Iliphar",
+            "value": 64
+    },
+    {
+            "name": "Goren",
+            "value": 65
+    },
+    {
+            "name": "Lyari",
+            "value": 66
+    },
+    {
+            "name": "Taerel",
+            "value": 67
+    },
+    {
+            "name": "Alosrin",
+            "value": 68
+    },
+    {
+            "name": "Valmenor",
+            "value": 69
+    },
+    {
+            "name": "Heizana",
+            "value": 70
+    },
+    {
+            "name": "Kendel",
+            "value": 71
+    },
+    {
+            "name": "Keenor",
+            "value": 72
+    },
+    {
+            "name": "Darunia",
+            "value": 73
+    },
+    {
+            "name": "Saleh",
+            "value": 74
+    },
+    {
+            "name": "Leorora",
+            "value": 75
+    },
+    {
+            "name": "Myrdin",
+            "value": 76
+    },
+    {
+            "name": "Yesanith",
+            "value": 77
+    },
+    {
+            "name": "Aneirin",
+            "value": 78
+    },
+    {
+            "name": "Umero",
+            "value": 79
+    },
+    {
+            "name": "Aien",
+            "value": 80
+    },
+    {
+            "name": "Irhaal",
+            "value": 81
+    },
+    {
+            "name": "Elandorr",
+            "value": 82
+    },
+    {
+            "name": "Adorellan",
+            "value": 83
+    },
+    {
+            "name": "Orym",
+            "value": 84
+    },
+    {
+            "name": "Wirenth",
+            "value": 85
+    },
+    {
+            "name": "Dorvyre",
+            "value": 86
+    },
+    {
+            "name": "Miraphine",
+            "value": 87
+    },
+    {
+            "name": "Darfi n",
+            "value": 88
+    },
+    {
+            "name": "Sinaht",
+            "value": 89
+    },
+    {
+            "name": "Namys",
+            "value": 90
+    },
+    {
+            "name": "Alion",
+            "value": 91
+    },
+    {
+            "name": "Wynather",
+            "value": 92
+    },
+    {
+            "name": "Ruven",
+            "value": 93
+    },
+    {
+            "name": "Falenas",
+            "value": 94
+    },
+    {
+            "name": "Heidithas",
+            "value": 95
+    },
+    {
+            "name": "Ayre",
+            "value": 96
+    },
+    {
+            "name": "Iligwyn",
+            "value": 97
+    },
+    {
+            "name": "Brytris",
+            "value": 98
+    },
+    {
+            "name": "Valfi r",
+            "value": 99
+    },
+    {
+            "name": "Aelrindel",
+            "value": 100
+    }
+]

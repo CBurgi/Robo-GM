@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Current Need",
+        "value": 1
+    },
+    {
+        "name": "Allies",
+        "value": 2
+    },
+    {
+        "name": "Community",
+        "value": 3
+    },
+    {
+        "name": "History",
+        "value": 4
+    },
+    {
+        "name": "Future Plans",
+        "value": 5
+    },
+    {
+        "name": "Enemies",
+        "value": 6
+    },
+    {
+        "name": "Knowledge",
+        "value": 7
+    },
+    {
+        "name": "Rumors",
+        "value": 8
+    },
+    {
+        "name": "A Story Thread",
+        "value": 9
+    },
+    {
+        "name": "Recent Events",
+        "value": 10
+    },
+    {
+        "name": "Equipment",
+        "value": 11
+    },
+    {
+        "name": "A Faction",
+        "value": 12
+    },
+    {
+        "name": "The PCs",
+        "value": 13
+    }
+]

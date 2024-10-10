@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Foreshadow Trouble",
+        "value": 1
+    },
+    {
+        "name": "Reveal a new detail",
+        "value": 2
+    },
+    {
+        "name": "An NPC takes action",
+        "value": 3
+    },
+    {
+        "name": "Advance a Threat",
+        "value": 4
+    },
+    {
+        "name": "Advance a Story Thread",
+        "value": 5
+    },
+    {
+        "name": "Add an event complication",
+        "value": 6
+    }
+]

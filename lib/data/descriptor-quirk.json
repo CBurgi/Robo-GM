@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Insecure",
+        "value": 1
+    },
+    {
+        "name": "Addict",
+        "value": 2
+    },
+    {
+        "name": "Phobia",
+        "value": 3
+    },
+    {
+        "name": "Skeptic",
+        "value": 4
+    },
+    {
+        "name": "Chronically Ill",
+        "value": 5
+    },
+    {
+        "name": "Superstitious",
+        "value": 6
+    },
+    {
+        "name": "Devout/Fanatic",
+        "value": 7
+    },
+    {
+        "name": "Miser/Hoarder",
+        "value": 8
+    },
+    {
+        "name": "Spender/Gambler",
+        "value": 9
+    },
+    {
+        "name": "Know-it-all",
+        "value": 10
+    },
+    {
+        "name": "Dreamer/Delusional",
+        "value": 11
+    },
+    {
+        "name": "Naive",
+        "value": 12
+    },
+    {
+        "name": "Reroll and add contrary detail",
+        "value": 13
+    }
+]

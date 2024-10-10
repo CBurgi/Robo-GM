@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Urchin",
+        "value": 1
+    },
+    {
+        "name": "Thief",
+        "value": 2
+    },
+    {
+        "name": "Adventurer",
+        "value": 3
+    },
+    {
+        "name": "Commoner",
+        "value": 4
+    },
+    {
+        "name": "Commoner",
+        "value": 5
+    },
+    {
+        "name": "Entertainer",
+        "value": 6
+    },
+    {
+        "name": "Merchant",
+        "value": 7
+    },
+    {
+        "name": "Merchant",
+        "value": 8
+    },
+    {
+        "name": "Tradesperson",
+        "value": 9
+    },
+    {
+        "name": "Soldier",
+        "value": 10
+    },
+    {
+        "name": "Soldier",
+        "value": 11
+    },
+    {
+        "name": "City Official",
+        "value": 12
+    },
+    {
+        "name": "Priest",
+        "value": 13
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Shazmog",
+        "value": 1
+    },
+    {
+        "name": "Lagvorg",
+        "value": 2
+    },
+    {
+        "name": "Kilras",
+        "value": 3
+    },
+    {
+        "name": "Kull",
+        "value": 4
+    },
+    {
+        "name": "Filkrag",
+        "value": 5
+    },
+    {
+        "name": "Maylarg",
+        "value": 6
+    },
+    {
+        "name": "Zerg",
+        "value": 7
+    },
+    {
+        "name": "Trolg",
+        "value": 8
+    },
+    {
+        "name": "Raggril",
+        "value": 9
+    },
+    {
+        "name": "Zimgril",
+        "value": 10
+    },
+    {
+        "name": "Shigrawl",
+        "value": 11
+    },
+    {
+        "name": "Vormak",
+        "value": 12
+    },
+    {
+        "name": "Bralgo",
+        "value": 13
+    },
+    {
+        "name": "Grolzak",
+        "value": 14
+    },
+    {
+        "name": "Zimgril",
+        "value": 15
+    },
+    {
+        "name": "Hazogrin",
+        "value": 16
+    },
+    {
+        "name": "Qilzok",
+        "value": 17
+    },
+    {
+        "name": "Glorm",
+        "value": 18
+    },
+    {
+        "name": "Puklag",
+        "value": 19
+    },
+    {
+        "name": "Zod",
+        "value": 20
+    },
+    {
+        "name": "Mrog",
+        "value": 21
+    },
+    {
+        "name": "Zin",
+        "value": 22
+    },
+    {
+        "name": "Solgrov",
+        "value": 23
+    },
+    {
+        "name": "Hazod",
+        "value": 24
+    },
+    {
+        "name": "Klug",
+        "value": 25
+    },
+    {
+        "name": "Goronom",
+        "value": 26
+    },
+    {
+        "name": "Gur",
+        "value": 27
+    },
+    {
+        "name": "Drulag",
+        "value": 28
+    },
+    {
+        "name": "Xozrog",
+        "value": 29
+    },
+    {
+        "name": "Shalig",
+        "value": 30
+    },
+    {
+        "name": "Zuzbrim",
+        "value": 31
+    },
+    {
+        "name": "Moz",
+        "value": 32
+    },
+    {
+        "name": "Krilgog",
+        "value": 33
+    },
+    {
+        "name": "Trelgrav",
+        "value": 34
+    },
+    {
+        "name": "Werg",
+        "value": 35
+    },
+    {
+        "name": "Froklor",
+        "value": 36
+    },
+    {
+        "name": "Krelnok",
+        "value": 37
+    },
+    {
+        "name": "Tigdrum",
+        "value": 38
+    },
+    {
+        "name": "Bolzogrin",
+        "value": 39
+    },
+    {
+        "name": "Az",
+        "value": 40
+    },
+    {
+        "name": "Ozorborg",
+        "value": 41
+    },
+    {
+        "name": "Poog",
+        "value": 42
+    },
+    {
+        "name": "Trazafi",
+        "value": 43
+    },
+    {
+        "name": "Borgzil",
+        "value": 44
+    },
+    {
+        "name": "Mazbor",
+        "value": 45
+    },
+    {
+        "name": "Izkorg",
+        "value": 46
+    },
+    {
+        "name": "Zorgdrul",
+        "value": 47
+    },
+    {
+        "name": "Vrog",
+        "value": 48
+    },
+    {
+        "name": "Morlok",
+        "value": 49
+    },
+    {
+        "name": "Morzan",
+        "value": 50
+    },
+    {
+        "name": "Sawgren",
+        "value": 51
+    },
+    {
+        "name": "Wigvo",
+        "value": 52
+    },
+    {
+        "name": "Jarl",
+        "value": 53
+    },
+    {
+        "name": "Nurgzol",
+        "value": 54
+    },
+    {
+        "name": "Shazboz",
+        "value": 55
+    },
+    {
+        "name": "Briklo",
+        "value": 56
+    },
+    {
+        "name": "Bozhel",
+        "value": 57
+    },
+    {
+        "name": "Torngul",
+        "value": 58
+    },
+    {
+        "name": "Grimlor",
+        "value": 59
+    },
+    {
+        "name": "Derdak",
+        "value": 60
+    },
+    {
+        "name": "Mrelgoth",
+        "value": 61
+    },
+    {
+        "name": "Glomgur",
+        "value": 62
+    },
+    {
+        "name": "Traalgig",
+        "value": 63
+    },
+    {
+        "name": "Torg",
+        "value": 64
+    },
+    {
+        "name": "Shlazgor",
+        "value": 65
+    },
+    {
+        "name": "Rozbul",
+        "value": 66
+    },
+    {
+        "name": "Vorlig",
+        "value": 67
+    },
+    {
+        "name": "Gorgig",
+        "value": 68
+    },
+    {
+        "name": "Ugaro",
+        "value": 69
+    },
+    {
+        "name": "Nashalgor",
+        "value": 70
+    },
+    {
+        "name": "Zorath",
+        "value": 71
+    },
+    {
+        "name": "Kreg",
+        "value": 72
+    },
+    {
+        "name": "Zurgor",
+        "value": 73
+    },
+    {
+        "name": "Ziz",
+        "value": 74
+    },
+    {
+        "name": "Durboz",
+        "value": 75
+    },
+    {
+        "name": "Argzoz",
+        "value": 76
+    },
+    {
+        "name": "Gazlip",
+        "value": 77
+    },
+    {
+        "name": "Brom",
+        "value": 78
+    },
+    {
+        "name": "Vilgroth",
+        "value": 79
+    },
+    {
+        "name": "Brimlak",
+        "value": 80
+    },
+    {
+        "name": "Zomarorg",
+        "value": 81
+    },
+    {
+        "name": "Saklag",
+        "value": 82
+    },
+    {
+        "name": "Vorg",
+        "value": 83
+    },
+    {
+        "name": "Zogmaz",
+        "value": 84
+    },
+    {
+        "name": "Thalmok",
+        "value": 85
+    },
+    {
+        "name": "Klarg",
+        "value": 86
+    },
+    {
+        "name": "Yalograz",
+        "value": 87
+    },
+    {
+        "name": "Xor",
+        "value": 88
+    },
+    {
+        "name": "Ozbrog",
+        "value": 89
+    },
+    {
+        "name": "Grist",
+        "value": 90
+    },
+    {
+        "name": "Kraz",
+        "value": 91
+    },
+    {
+        "name": "Grigbor",
+        "value": 92
+    },
+    {
+        "name": "Ig",
+        "value": 93
+    },
+    {
+        "name": "Zorglag",
+        "value": 94
+    },
+    {
+        "name": "Erlag",
+        "value": 95
+    },
+    {
+        "name": "Sligmor",
+        "value": 96
+    },
+    {
+        "name": "Ragmorl",
+        "value": 97
+    },
+    {
+        "name": "Volkslu",
+        "value": 98
+    },
+    {
+        "name": "Wurilga",
+        "value": 99
+    },
+    {
+        "name": "Mogzilgor",
+        "value": 100
+    }
+]

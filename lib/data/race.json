@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Half-Orc",
+        "value": 1
+    },
+    {
+        "name": "Orc",
+        "value": 2
+    },
+    {
+        "name": "Bugbear",
+        "value": 3
+    },
+    {
+        "name": "Elf",
+        "value": 4
+    },
+    {
+        "name": "Half-Elf",
+        "value": 5
+    },
+    {
+        "name": "Fairy",
+        "value": 6
+    },
+    {
+        "name": "Aarakocra",
+        "value": 7
+    },
+    {
+        "name": "Halfling",
+        "value": 8
+    },
+    {
+        "name": "Firbolg",
+        "value": 9
+    },
+    {
+        "name": "Human",
+        "value": 10
+    },
+    {
+        "name": "Harengon",
+        "value": 11
+    },
+    {
+        "name": "Goblin",
+        "value": 12
+    },
+    {
+        "name": "Kobold",
+        "value": 13
+    },
+    {
+        "name": "Dwarf",
+        "value": 14
+    },
+    {
+        "name": "Tortle",
+        "value": 15
+    },
+    {
+        "name": "Gnome",
+        "value": 16
+    },
+    {
+        "name": "Tiefling",
+        "value": 17
+    },
+    {
+        "name": "Kenku",
+        "value": 18
+    },
+    {
+        "name": "Tabaxi",
+        "value": 19
+    },
+    {
+        "name": "Genasi",
+        "value": 20
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Hostile forces oppose you",
+        "value": 1
+    },
+    {
+        "name": "An obstacle blocks your way",
+        "value": 2
+    },
+    {
+        "name": "A major detail of the scene is enhanced or somehow worse ",
+        "value": 3
+    },
+    {
+        "name": "An NPC acts suddenly",
+        "value": 4
+    },
+    {
+        "name": "All is not as it seems",
+        "value": 5
+    },
+    {
+        "name": "The environment is different than expected",
+        "value": 6
+    }
+]

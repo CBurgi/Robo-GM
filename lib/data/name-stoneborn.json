@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Araman",
+        "value": 1
+    },
+    {
+        "name": "Groudin",
+        "value": 2
+    },
+    {
+        "name": "Dhossim",
+        "value": 3
+    },
+    {
+        "name": "Dalom",
+        "value": 4
+    },
+    {
+        "name": "Bhakel",
+        "value": 5
+    },
+    {
+        "name": "Brodrous",
+        "value": 6
+    },
+    {
+        "name": "Grakim",
+        "value": 7
+    },
+    {
+        "name": "Drolf",
+        "value": 8
+    },
+    {
+        "name": "Hevrad",
+        "value": 9
+    },
+    {
+        "name": "Sigril",
+        "value": 10
+    },
+    {
+        "name": "Nomoli",
+        "value": 11
+    },
+    {
+        "name": "Kellyg",
+        "value": 12
+    },
+    {
+        "name": "Kirdum",
+        "value": 13
+    },
+    {
+        "name": "Dobrik",
+        "value": 14
+    },
+    {
+        "name": "Bognur",
+        "value": 15
+    },
+    {
+        "name": "Thasdan",
+        "value": 16
+    },
+    {
+        "name": "Bosteg",
+        "value": 17
+    },
+    {
+        "name": "Bronad",
+        "value": 18
+    },
+    {
+        "name": "Norrim",
+        "value": 19
+    },
+    {
+        "name": "Thragg",
+        "value": 20
+    },
+    {
+        "name": "Torgred",
+        "value": 21
+    },
+    {
+        "name": "Durmas",
+        "value": 22
+    },
+    {
+        "name": "Kraznog",
+        "value": 23
+    },
+    {
+        "name": "Dhold",
+        "value": 24
+    },
+    {
+        "name": "Dorol",
+        "value": 25
+    },
+    {
+        "name": "Khetrek",
+        "value": 26
+    },
+    {
+        "name": "Norfeth",
+        "value": 27
+    },
+    {
+        "name": "Jandrac",
+        "value": 28
+    },
+    {
+        "name": "Snathleg",
+        "value": 29
+    },
+    {
+        "name": "Kovir",
+        "value": 30
+    },
+    {
+        "name": "Ottom",
+        "value": 31
+    },
+    {
+        "name": "Thezzus",
+        "value": 32
+    },
+    {
+        "name": "Alfond",
+        "value": 33
+    },
+    {
+        "name": "Bredneg",
+        "value": 34
+    },
+    {
+        "name": "Yuggor",
+        "value": 35
+    },
+    {
+        "name": "Jabrom",
+        "value": 36
+    },
+    {
+        "name": "Thernak",
+        "value": 37
+    },
+    {
+        "name": "Ogrum",
+        "value": 38
+    },
+    {
+        "name": "Luthyr",
+        "value": 39
+    },
+    {
+        "name": "Fimnok",
+        "value": 40
+    },
+    {
+        "name": "Hestun",
+        "value": 41
+    },
+    {
+        "name": "Mognac",
+        "value": 42
+    },
+    {
+        "name": "Reistac",
+        "value": 43
+    },
+    {
+        "name": "Bolin",
+        "value": 44
+    },
+    {
+        "name": "Kudrol",
+        "value": 45
+    },
+    {
+        "name": "Darsek",
+        "value": 46
+    },
+    {
+        "name": "Khurge",
+        "value": 47
+    },
+    {
+        "name": "Yusut",
+        "value": 48
+    },
+    {
+        "name": "Khemdar",
+        "value": 49
+    },
+    {
+        "name": "Darez",
+        "value": 50
+    },
+    {
+        "name": "Gomnick",
+        "value": 51
+    },
+    {
+        "name": "Kitmor",
+        "value": 52
+    },
+    {
+        "name": "Bhaddor",
+        "value": 53
+    },
+    {
+        "name": "Grondrek",
+        "value": 54
+    },
+    {
+        "name": "Tuddaek",
+        "value": 55
+    },
+    {
+        "name": "Gazzan",
+        "value": 56
+    },
+    {
+        "name": "Vorsuk",
+        "value": 57
+    },
+    {
+        "name": "Lokgruli",
+        "value": 58
+    },
+    {
+        "name": "Grufek",
+        "value": 59
+    },
+    {
+        "name": "Weznick",
+        "value": 60
+    },
+    {
+        "name": "Bromoul",
+        "value": 61
+    },
+    {
+        "name": "Broughol",
+        "value": 62
+    },
+    {
+        "name": "Domnig",
+        "value": 63
+    },
+    {
+        "name": "Groumret",
+        "value": 64
+    },
+    {
+        "name": "Tutrik",
+        "value": 65
+    },
+    {
+        "name": "Durock",
+        "value": 66
+    },
+    {
+        "name": "Umitt",
+        "value": 67
+    },
+    {
+        "name": "Deghed",
+        "value": 68
+    },
+    {
+        "name": "Girnat",
+        "value": 69
+    },
+    {
+        "name": "Yugrif",
+        "value": 70
+    },
+    {
+        "name": "Tholgut",
+        "value": 71
+    },
+    {
+        "name": "Bruvis",
+        "value": 72
+    },
+    {
+        "name": "Throndik",
+        "value": 73
+    },
+    {
+        "name": "Fotmeck",
+        "value": 74
+    },
+    {
+        "name": "Umidin",
+        "value": 75
+    },
+    {
+        "name": "Hezzuk",
+        "value": 76
+    },
+    {
+        "name": "Boffi n",
+        "value": 77
+    },
+    {
+        "name": "Godmid",
+        "value": 78
+    },
+    {
+        "name": "Yodrick",
+        "value": 79
+    },
+    {
+        "name": "Golock",
+        "value": 80
+    },
+    {
+        "name": "Dadgroth",
+        "value": 81
+    },
+    {
+        "name": "Jarn",
+        "value": 82
+    },
+    {
+        "name": "Whuldruf",
+        "value": 83
+    },
+    {
+        "name": "Delmar",
+        "value": 84
+    },
+    {
+        "name": "Norsum",
+        "value": 85
+    },
+    {
+        "name": "Grunsun",
+        "value": 86
+    },
+    {
+        "name": "Nolgrol",
+        "value": 87
+    },
+    {
+        "name": "Wemrun",
+        "value": 88
+    },
+    {
+        "name": "Thignus",
+        "value": 89
+    },
+    {
+        "name": "Therdrum",
+        "value": 90
+    },
+    {
+        "name": "Groznin",
+        "value": 91
+    },
+    {
+        "name": "Yarram",
+        "value": 92
+    },
+    {
+        "name": "Dalen",
+        "value": 93
+    },
+    {
+        "name": "Halat",
+        "value": 94
+    },
+    {
+        "name": "Rasdrur",
+        "value": 95
+    },
+    {
+        "name": "Boggol",
+        "value": 96
+    },
+    {
+        "name": "Borful",
+        "value": 97
+    },
+    {
+        "name": "Hurhel",
+        "value": 98
+    },
+    {
+        "name": "Brubrem",
+        "value": 99
+    },
+    {
+        "name": "Lokdin",
+        "value": 100
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "None",
+        "value": 1
+    },
+    {
+        "name": "None",
+        "value": 2
+    },
+    {
+        "name": "Hostile Enemies",
+        "value": 3
+    },
+    {
+        "name": "Trap",
+        "value": 4
+    },
+    {
+        "name": "Obstacle",
+        "value": 5
+    },
+    {
+        "name": "Unique NPC/enemy",
+        "value": 6
+    }
+]

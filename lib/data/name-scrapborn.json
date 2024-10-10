@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Gribna",
+        "value": 1
+    },
+    {
+        "name": "Bez",
+        "value": 2
+    },
+    {
+        "name": "Slog",
+        "value": 3
+    },
+    {
+        "name": "Alug",
+        "value": 4
+    },
+    {
+        "name": "Arg",
+        "value": 5
+    },
+    {
+        "name": "Xog",
+        "value": 6
+    },
+    {
+        "name": "Lulz",
+        "value": 7
+    },
+    {
+        "name": "Lig",
+        "value": 8
+    },
+    {
+        "name": "Wart",
+        "value": 9
+    },
+    {
+        "name": "Ez",
+        "value": 10
+    },
+    {
+        "name": "Tuz",
+        "value": 11
+    },
+    {
+        "name": "Bilk",
+        "value": 12
+    },
+    {
+        "name": "Brun",
+        "value": 13
+    },
+    {
+        "name": "Tark",
+        "value": 14
+    },
+    {
+        "name": "Kog",
+        "value": 15
+    },
+    {
+        "name": "Ooglo",
+        "value": 16
+    },
+    {
+        "name": "Grub",
+        "value": 17
+    },
+    {
+        "name": "Slob",
+        "value": 18
+    },
+    {
+        "name": "Moog",
+        "value": 19
+    },
+    {
+        "name": "Drulz",
+        "value": 20
+    },
+    {
+        "name": "Orulz",
+        "value": 21
+    },
+    {
+        "name": "Lorz",
+        "value": 22
+    },
+    {
+        "name": "Scar",
+        "value": 23
+    },
+    {
+        "name": "Erb",
+        "value": 24
+    },
+    {
+        "name": "Treg",
+        "value": 25
+    },
+    {
+        "name": "Grel",
+        "value": 26
+    },
+    {
+        "name": "Torl",
+        "value": 27
+    },
+    {
+        "name": "Mole",
+        "value": 28
+    },
+    {
+        "name": "Pulz",
+        "value": 29
+    },
+    {
+        "name": "Limper",
+        "value": 30
+    },
+    {
+        "name": "Zux",
+        "value": 31
+    },
+    {
+        "name": "Milg",
+        "value": 32
+    },
+    {
+        "name": "Zrag",
+        "value": 33
+    },
+    {
+        "name": "Wik",
+        "value": 34
+    },
+    {
+        "name": "Gosmil",
+        "value": 35
+    },
+    {
+        "name": "Xorgul",
+        "value": 36
+    },
+    {
+        "name": "Morl",
+        "value": 37
+    },
+    {
+        "name": "Grig",
+        "value": 38
+    },
+    {
+        "name": "Holug",
+        "value": 39
+    },
+    {
+        "name": "Tul",
+        "value": 40
+    },
+    {
+        "name": "Zuz",
+        "value": 41
+    },
+    {
+        "name": "Vaku",
+        "value": 42
+    },
+    {
+        "name": "Iv",
+        "value": 43
+    },
+    {
+        "name": "Smelg",
+        "value": 44
+    },
+    {
+        "name": "Grunsk",
+        "value": 45
+    },
+    {
+        "name": "Krub",
+        "value": 46
+    },
+    {
+        "name": "Og",
+        "value": 47
+    },
+    {
+        "name": "Xarg",
+        "value": 48
+    },
+    {
+        "name": "Shaz",
+        "value": 49
+    },
+    {
+        "name": "Thurg",
+        "value": 50
+    },
+    {
+        "name": "Slime",
+        "value": 51
+    },
+    {
+        "name": "Zarg",
+        "value": 52
+    },
+    {
+        "name": "Grol",
+        "value": 53
+    },
+    {
+        "name": "Hugor",
+        "value": 54
+    },
+    {
+        "name": "Org",
+        "value": 55
+    },
+    {
+        "name": "Scab",
+        "value": 56
+    },
+    {
+        "name": "Brool",
+        "value": 57
+    },
+    {
+        "name": "Zork",
+        "value": 58
+    },
+    {
+        "name": "Blorg",
+        "value": 59
+    },
+    {
+        "name": "Ig",
+        "value": 60
+    },
+    {
+        "name": "Klag",
+        "value": 61
+    },
+    {
+        "name": "Slag",
+        "value": 62
+    },
+    {
+        "name": "Flitch",
+        "value": 63
+    },
+    {
+        "name": "Uz",
+        "value": 64
+    },
+    {
+        "name": "Gorg",
+        "value": 65
+    },
+    {
+        "name": "Narl",
+        "value": 66
+    },
+    {
+        "name": "Murg",
+        "value": 67
+    },
+    {
+        "name": "Laz",
+        "value": 68
+    },
+    {
+        "name": "Eurg",
+        "value": 69
+    },
+    {
+        "name": "Zog",
+        "value": 70
+    },
+    {
+        "name": "Zeeb",
+        "value": 71
+    },
+    {
+        "name": "Viklorg",
+        "value": 72
+    },
+    {
+        "name": "Nog",
+        "value": 73
+    },
+    {
+        "name": "Vorl",
+        "value": 74
+    },
+    {
+        "name": "Mig",
+        "value": 75
+    },
+    {
+        "name": "Blarg",
+        "value": 76
+    },
+    {
+        "name": "Urz",
+        "value": 77
+    },
+    {
+        "name": "Zig",
+        "value": 78
+    },
+    {
+        "name": "Xlaz",
+        "value": 79
+    },
+    {
+        "name": "Zug",
+        "value": 80
+    },
+    {
+        "name": "Rorg",
+        "value": 81
+    },
+    {
+        "name": "Xrag",
+        "value": 82
+    },
+    {
+        "name": "Worv",
+        "value": 83
+    },
+    {
+        "name": "Fogul",
+        "value": 84
+    },
+    {
+        "name": "Korlug",
+        "value": 85
+    },
+    {
+        "name": "Shank",
+        "value": 86
+    },
+    {
+        "name": "Grug",
+        "value": 87
+    },
+    {
+        "name": "Pug",
+        "value": 88
+    },
+    {
+        "name": "Mogz",
+        "value": 89
+    },
+    {
+        "name": "Worl",
+        "value": 90
+    },
+    {
+        "name": "Blud",
+        "value": 91
+    },
+    {
+        "name": "Jerg",
+        "value": 92
+    },
+    {
+        "name": "Durg",
+        "value": 93
+    },
+    {
+        "name": "Lor",
+        "value": 94
+    },
+    {
+        "name": "Vorg",
+        "value": 95
+    },
+    {
+        "name": "Rip",
+        "value": 96
+    },
+    {
+        "name": "Brog",
+        "value": 97
+    },
+    {
+        "name": "Rok",
+        "value": 98
+    },
+    {
+        "name": "Grom",
+        "value": 99
+    },
+    {
+        "name": "Sig",
+        "value": 100
+    }
+]

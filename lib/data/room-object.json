@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Mundane objects",
+        "value": 1
+    },
+    {
+        "name": "Mundane objects",
+        "value": 2
+    },
+    {
+        "name": "Corpses",
+        "value": 3
+    },
+    {
+        "name": "Useful tool/key",
+        "value": 4
+    },
+    {
+        "name": "Treasure",
+        "value": 5
+    },
+    {
+        "name": "Rare/special item",
+        "value": 6
+    }
+]

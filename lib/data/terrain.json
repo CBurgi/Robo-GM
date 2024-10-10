@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Rare Terrain",
+        "value": 1
+    },
+    {
+        "name": "Rare Terrain",
+        "value": 2
+    },
+    {
+        "name": "Uncommon Terrain",
+        "value": 3
+    },
+    {
+        "name": "Uncommon Terrain",
+        "value": 4
+    },
+    {
+        "name": "Uncommon Terrain",
+        "value": 5
+    },
+    {
+        "name": "Common Terrain",
+        "value": 6
+    }
+]

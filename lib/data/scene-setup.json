@@ -1,0 +1,22 @@
+[
+    {
+        "name": "interrupted! (Roll a random event)",
+        "value": 1
+    },
+    {
+        "name": "interrupted! (Roll a random event)",
+        "value": 2
+    },
+    {
+        "name": "altered! (Add an event alteration)",
+        "value": 3
+    },
+    {
+        "name": "altered! (Add an event alteration)",
+        "value": 4
+    },
+    {
+        "name": "unmodified.",
+        "value": 5
+    }
+]
